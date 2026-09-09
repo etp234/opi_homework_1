@@ -6,7 +6,8 @@ namespace ConsoleApp1
 {
     internal class коммит3опи
     {
-        Console.WriteLine(fgdmhgf);
+        Console.WriteLine();
+            fdsfdfdf
 
     }
 }
