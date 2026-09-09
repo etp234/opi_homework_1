@@ -19,6 +19,10 @@ namespace ConsoleApp1
             Console.WriteLine();
             Console.WriteLine();
             Console.WriteLine();
+
+            if
+            else
+            
             Console.WriteLine();
     }
 }
