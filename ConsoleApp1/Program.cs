@@ -11,8 +11,8 @@ int heroAge = Convert.ToInt32(Console.ReadLine()!);
 if (heroAge <= 17)
 {
     Console.WriteLine();
-    Console.WriteLine("Еще не дорос принцесс ебать");
-    Console.WriteLine("Пошел нахуй отсюда");
+    Console.WriteLine("Еще не дорос принцесс любить");
+    Console.WriteLine("уходи");
     return;
 }
 
@@ -39,13 +39,13 @@ if (choice == 'L' || choice == 'l')
 
     if (choicee == 'Q' || choicee == 'q')
     {
-        Console.WriteLine("Вы тихо спиздили принцессу и сбежали");
+        Console.WriteLine("Вы тихо украли принцессу и сбежали");
         Console.WriteLine("После пробуждения она вас поблагодарила и вы отвели ее домой");
     }
     if (choicee == 'N' || choicee == 'n')
     {
         Console.WriteLine("Вы побежали с криком, что хохлы на сдаются и разбудили змея гориныча");
-        Console.WriteLine("После пробуждения змей очень разозлился, но пока он щелкал еблом вы спиздили эту мымру");
+        Console.WriteLine("После пробуждения змей очень разозлился, но пока он щелкал вы украли эту принцессу");
         Console.WriteLine("После пробуждения она в вас влюбилась и дала вам");
     }
 }
@@ -57,12 +57,11 @@ if (choice == 'R' || choice == 'r')
     if (heroHeight <= 1.65)
     {
         Console.WriteLine();
-        Console.WriteLine("Так как вы низкого роста гомосеки посчитали вас слабым звеном и пустили вас по кругу и ебали вас до тех пор, пока вы не умрете");
+        Console.WriteLine("Так как вы низкого роста гомосеки посчитали вас слабым звеном и пустили вас по кругу");
     }
     else
     {
-        Console.WriteLine("Вы достаточно высокого роста, они посчитали вас привлекательным и вы устроили оргию");
-        Console.WriteLine("Вы стали гомосеком");
+        Console.WriteLine("Вы стали гомосеком!");
     }
    
 }
