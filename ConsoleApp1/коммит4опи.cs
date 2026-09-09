@@ -9,5 +9,16 @@ namespace ConsoleApp1
         Console.WriteLine("боб");
         Console.WriteLine("паопапапа");
             Console.WriteLine("гамасек");
+            Console.WriteLine();
+            Console.WriteLine();
+            Console.WriteLine();
+            Console.WriteLine();
+            Console.WriteLine();
+            Console.WriteLine();
+            Console.WriteLine();
+            Console.WriteLine();
+            Console.WriteLine();
+            Console.WriteLine();
+            Console.WriteLine();
     }
 }
